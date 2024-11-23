@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyen Hai Anh
+* Student Name: Nguyen Hai Nam
 * Student ID: 22BI13322
 * Student Group ID: kkk
