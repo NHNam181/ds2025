@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Nguyen Hai Nam
 * Student ID: 22BI13322
-* Student Group ID: kkk
+* Student Group ID: 1
